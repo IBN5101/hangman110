@@ -4,7 +4,7 @@ Hangman is a classic game in which a player thinks of a word and the other playe
 
 This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it. 
 
-This project is part of the Ai■■■■ skill bootcamp. This project was completed on 02/12/2023.
+This project is part of the AiCore skill bootcamp. This project was completed on 02/12/2023.
 
 ## Installation
 
@@ -12,13 +12,13 @@ To execute the script, please install the latest version of Python. As of the ti
 
 ## Usage
 
-To play the game, run the final milestone script `milestone_5.py`.
+To play the game, run the script `hangman_Template.py` in `hangman` folder.
 
 ## File structure
 
-- `hangman` folder: Finish ■■
+- `hangman` folder: Completed game.
 
-- `milestone_2.py` to `milestone_5.py`: assignments given by Ai■■■■.
+- `milestones` folder: Contains AiCore assignments.
 
 ## License
 
